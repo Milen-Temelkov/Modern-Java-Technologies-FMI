@@ -1,0 +1,1 @@
+Solutions to tasks from MJT course in FMI
