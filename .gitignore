@@ -1,7 +1,9 @@
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
 out/
 checkstyle.xml
+*/.gitignore
+*.zip
