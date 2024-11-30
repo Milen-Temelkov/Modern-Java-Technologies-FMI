@@ -7,3 +7,4 @@ out/
 checkstyle.xml
 */.gitignore
 *.zip
+lib
