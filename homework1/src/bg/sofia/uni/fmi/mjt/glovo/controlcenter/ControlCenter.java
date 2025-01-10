@@ -68,7 +68,7 @@ public class ControlCenter implements ControlCenterApi {
 
         if (shippingMethod == null) {
             throw new IllegalArgumentException("Shipping method cannot be null");
-        };
+        }
 
         int distanceFromRestaurantToClient = getDistance(layout[restaurantLocation.x()][restaurantLocation.y()],
                                                                 layout[clientLocation.x()][clientLocation.y()]);
